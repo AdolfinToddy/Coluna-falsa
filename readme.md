@@ -1,0 +1,1 @@
+exemplo de como utilizar uma coluna falsa em um site com HTML e CSS.
